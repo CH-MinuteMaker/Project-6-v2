@@ -1,0 +1,14 @@
+.colour-box-container {
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.colour-box {
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid black;
+    width: 15%;
+    height: auto;
+}
